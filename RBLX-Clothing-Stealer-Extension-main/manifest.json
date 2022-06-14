@@ -1,7 +1,7 @@
 {
-    "name": "ROBLOX Clothing Stealer",
+    "name": "Cool Roblox Clothing Stealer trepgmaerpgmeragp Gian!#8885",
     "description": "Instead of depending on a discord bot, do it yourself...",
-    "version": "0.0.1",
+    "version": "1",
     "manifest_version": 2,
     "background" : {
         "scripts" : ["background.js"]
